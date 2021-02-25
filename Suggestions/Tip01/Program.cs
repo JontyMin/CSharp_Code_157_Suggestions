@@ -119,7 +119,7 @@ namespace Tip01
             stringBuilder.Append(d);
             string result = stringBuilder.ToString();
 
-            //string.Format("{0}{1}{2}{3}", a, b, c, d);
+            string.Format("{0}{1}{2}{3}", a, b, c, d);
             var format = $"{a}{b}{c}{d}";
         }
 

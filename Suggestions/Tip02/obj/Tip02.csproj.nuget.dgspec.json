@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip01\\Tip01.csproj": {}
+    "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip02\\Tip02.csproj": {}
   },
   "projects": {
-    "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip01\\Tip01.csproj": {
+    "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip02\\Tip02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip01\\Tip01.csproj",
-        "projectName": "Tip01",
-        "projectPath": "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip01\\Tip01.csproj",
+        "projectUniqueName": "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip02\\Tip02.csproj",
+        "projectName": "Tip02",
+        "projectPath": "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip02\\Tip02.csproj",
         "packagesPath": "C:\\Users\\jonty\\.nuget\\packages\\",
-        "outputPath": "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip01\\obj\\",
+        "outputPath": "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
