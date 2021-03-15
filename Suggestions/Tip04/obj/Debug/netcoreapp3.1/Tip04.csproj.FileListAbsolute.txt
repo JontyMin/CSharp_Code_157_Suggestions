@@ -1,0 +1,12 @@
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\obj\Debug\netcoreapp3.1\Tip04.AssemblyInfoInputs.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\obj\Debug\netcoreapp3.1\Tip04.AssemblyInfo.cs
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\obj\Debug\netcoreapp3.1\Tip04.csproj.CoreCompileInputs.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\bin\Debug\netcoreapp3.1\Tip04.exe
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\bin\Debug\netcoreapp3.1\Tip04.deps.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\bin\Debug\netcoreapp3.1\Tip04.runtimeconfig.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\bin\Debug\netcoreapp3.1\Tip04.runtimeconfig.dev.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\bin\Debug\netcoreapp3.1\Tip04.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\bin\Debug\netcoreapp3.1\Tip04.pdb
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\obj\Debug\netcoreapp3.1\Tip04.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\obj\Debug\netcoreapp3.1\Tip04.pdb
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip04\obj\Debug\netcoreapp3.1\Tip04.genruntimeconfig.cache

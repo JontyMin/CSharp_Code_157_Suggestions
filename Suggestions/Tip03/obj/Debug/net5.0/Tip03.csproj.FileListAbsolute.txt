@@ -1,0 +1,16 @@
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\bin\Debug\net5.0\Tip03.exe
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\bin\Debug\net5.0\Tip03.deps.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\bin\Debug\net5.0\Tip03.runtimeconfig.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\bin\Debug\net5.0\Tip03.runtimeconfig.dev.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\bin\Debug\net5.0\Tip03.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\bin\Debug\net5.0\ref\Tip03.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\bin\Debug\net5.0\Tip03.pdb
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\Tip03.csprojAssemblyReference.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\Tip03.GeneratedMSBuildEditorConfig.editorconfig
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\Tip03.AssemblyInfoInputs.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\Tip03.AssemblyInfo.cs
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\Tip03.csproj.CoreCompileInputs.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\Tip03.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\ref\Tip03.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\Tip03.pdb
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip03\obj\Debug\net5.0\Tip03.genruntimeconfig.cache
