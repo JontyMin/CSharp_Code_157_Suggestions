@@ -1,0 +1,15 @@
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\bin\Debug\netcoreapp3.1\Tip14.exe
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\bin\Debug\netcoreapp3.1\Tip14.deps.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\bin\Debug\netcoreapp3.1\Tip14.runtimeconfig.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\bin\Debug\netcoreapp3.1\Tip14.runtimeconfig.dev.json
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\bin\Debug\netcoreapp3.1\Tip14.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\bin\Debug\netcoreapp3.1\Tip14.pdb
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\obj\Debug\netcoreapp3.1\Tip14.AssemblyInfoInputs.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\obj\Debug\netcoreapp3.1\Tip14.AssemblyInfo.cs
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\obj\Debug\netcoreapp3.1\Tip14.csproj.CoreCompileInputs.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\obj\Debug\netcoreapp3.1\Tip14.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\obj\Debug\netcoreapp3.1\Tip14.pdb
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\obj\Debug\netcoreapp3.1\Tip14.genruntimeconfig.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\obj\Debug\netcoreapp3.1\Tip14.csprojAssemblyReference.cache
+E:\KeepLearn\C#\Jonty_Imporve\Suggestions\Tip14\obj\Debug\netcoreapp3.1\Tip14.csproj.CopyComplete

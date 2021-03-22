@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pvHRvRtodTkGxhzzpshuxn4Ax3rL4nr2MJia2+EtrTax6ro9MaxjZTuKJTbWxBucBHpUIC9qz0wECg5X8PAZA==",
+  "success": true,
+  "projectFilePath": "E:\\KeepLearn\\C#\\Jonty_Imporve\\Suggestions\\Tip14\\Tip14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonty\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
